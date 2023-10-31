@@ -71,7 +71,7 @@ class Recover extends Connection{
             $mail->Port = 465;
             
             //email recipients
-            $mail->setFrom('arthur.gcsocial@gmail.com');
+            $mail->setFrom('YOUR EMAIL HERE');
             $mail->addAddress($res['login_user']);
 
             //email content
