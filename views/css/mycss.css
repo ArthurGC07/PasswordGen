@@ -1,0 +1,36 @@
+body{
+    color: white;
+}
+#table_main{
+    border-collapse: separate;
+    border-radius: 20px;
+    border: 2px solid white;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    
+}
+.btn-success:hover{
+    background-color: #212529;
+    color: green;
+}
+.btn-primary:hover{
+    background-color: #212529;
+    color: #4079BC;
+
+}
+.btn-danger:hover{
+    background-color: #212529;
+    color: lightcoral;
+}
+
+.container{
+    text-align: center;
+    width: 100px;
+    height: 30px;
+}
+.fa-user{
+    align-items: center;
+    color: white;
+}
