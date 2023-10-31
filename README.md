@@ -4,6 +4,6 @@ This was one of my first PHP projects, and most of it is essentially me testing 
 Please make the following updates in the code:
 
 File: recover_pw_model.php
-Lines: 67 and 69
+Lines: 67, 69 and 74
 
 For future projects, I will definitely be using some frameworks.
